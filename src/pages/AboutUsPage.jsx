@@ -1,9 +1,7 @@
 import React from "react";
 import Footer from "../components/Footer/Footer";
 import { Link } from "react-router-dom";
-import c3 from "../img/c3.png";
-import love11 from "../img/love11.png";
-import love2 from "../img/love2.png";
+
 import { useStateValue } from "../context/StateProvider";
 const AboutUsPage = () => {
   const [{ aboutUsPage }] = useStateValue();

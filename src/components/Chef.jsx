@@ -1,6 +1,4 @@
 import React from "react";
-import cheff from "../img/cheff.png";
-import sign from "../img/sign.png";
 import { useStateValue } from "../context/StateProvider.js";
 
 const Chef = () => {
