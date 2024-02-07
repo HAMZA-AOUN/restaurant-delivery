@@ -24,6 +24,7 @@ import {
 } from "./utils/firebaseFunctions";
 import { actionType } from "./context/reducer";
 import UpdateItem from "./pages/UpdateItem";
+import { firebaseConfig } from "./firebase.config";
 //import "bootstrap/dist/css/bootstrap.min.css";
 
 const App = () => {
