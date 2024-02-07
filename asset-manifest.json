@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/restaurant-delivery/static/css/main.3add54b8.css",
+    "main.js": "/restaurant-delivery/static/js/main.4b01d985.js",
+    "static/media/c3.png": "/restaurant-delivery/static/media/c3.55f83414f33f66456b35.png",
+    "static/media/fi1.png": "/restaurant-delivery/static/media/fi1.3f43e51b6058550d1f44.png",
+    "static/media/logo.png": "/restaurant-delivery/static/media/logo.0f99324454e3c3ccba98.png",
+    "static/media/f1.png": "/restaurant-delivery/static/media/f1.c52686695ee9a5c4cd0d.png",
+    "static/media/i1.png": "/restaurant-delivery/static/media/i1.3d9b129d2c5432c6f1fb.png",
+    "static/media/heroBg.png": "/restaurant-delivery/static/media/heroBg.c43c4862422e70d88698.png",
+    "static/media/delivery.png": "/restaurant-delivery/static/media/delivery.bf9130a0962fbe091abc.png",
+    "static/media/avatar.png": "/restaurant-delivery/static/media/avatar.68cdc4513e601d28a382.png",
+    "static/media/emptyCart.svg": "/restaurant-delivery/static/media/emptyCart.71ad17e692d71caa77c6c9351f84756b.svg",
+    "static/media/NotFound.svg": "/restaurant-delivery/static/media/NotFound.4e90bb93460bfd8d9e2c86b42ef91a4a.svg",
+    "index.html": "/restaurant-delivery/index.html",
+    "main.3add54b8.css.map": "/restaurant-delivery/static/css/main.3add54b8.css.map",
+    "main.4b01d985.js.map": "/restaurant-delivery/static/js/main.4b01d985.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3add54b8.css",
+    "static/js/main.4b01d985.js"
+  ]
+}
